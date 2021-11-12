@@ -1,1 +1,2 @@
-# Pro-C108-v3-Normal-Distribution
+# Normal-Distribution
+solution for c108
